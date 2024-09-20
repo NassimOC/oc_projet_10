@@ -1,0 +1,19 @@
+{
+  "name": "oc_projet_10",
+  "version": "1.0.0",
+  "description": "Project #10 - Argent Bank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NassimOC/oc_projet_10.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NassimOC/oc_projet_10/issues"
+  },
+  "homepage": "https://github.com/NassimOC/oc_projet_10#readme"
+}
